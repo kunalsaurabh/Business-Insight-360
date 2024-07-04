@@ -82,7 +82,7 @@ AtliQ Hardware, a rapidly growing company, has initiated a data analytics projec
 - **Data Import:** Importing data from MySQL to PowerBI
 - **Data Model:** Following Snowflake schema for efficient data modeling
 
-![Data Model](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png)
+![Data Model](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Model%20View.png)
 
 ### Dashboard Design and Home View
 
