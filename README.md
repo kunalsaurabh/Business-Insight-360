@@ -66,11 +66,6 @@ AtliQ Hardware, a rapidly growing company, has initiated a data analytics projec
 - What resources and data are needed?
 - Are there specific design and view preferences from stakeholders?
 
-### Dataset Understanding
-
-Sure! Here is the formatted dataset understanding section for your GitHub README:
-
----
 
 ## Dataset Understanding
 
