@@ -4,8 +4,7 @@
 
 AtliQ Hardware, a rapidly growing company, has initiated a data analytics project using PowerBI to gain a competitive edge and make data-driven decisions. This project aims to provide stakeholders with insights across finance, sales, marketing, and supply chain.
 
-**Project Reference:** [Codebasics PowerBI Course](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)  
-**Live Report:** [AtliQ Hardware Business Insights 360](https://www.novypro.com/project/atliq-hardware-business-insights-360)
+ **Live Report:** [AtliQ Hardware Business Insights 360](https://www.novypro.com/project/atliq-hardware-business-insights-360)
 
 ## Technologies Used
 
@@ -69,13 +68,88 @@ AtliQ Hardware, a rapidly growing company, has initiated a data analytics projec
 
 ### Dataset Understanding
 
-- **Dimension Tables:**
-  - **dim_customer:** Customer details across 27 markets and 2 platforms (Brick & Mortar, E-commerce)
-  - **dim_market:** Market details, sub-zones, and regions
-  - **dim_product:** Product details across various categories and variants
-- **Fact Tables:**
-  - **fact_forecast_monthly:** Forecasted customer needs for improved satisfaction and reduced storage costs
-  - **fact_sales_monthly:** Actual sales data for performance analysis
+Sure! Here is the formatted dataset understanding section for your GitHub README:
+
+---
+
+## Dataset Understanding
+
+Understanding the available data is crucial for effective analysis. Before diving into the analysis, it is important to get a clear understanding of the data available.
+
+### Dimension Tables
+
+Dimension tables contain static data such as customer and product details.
+
+**Database: gdb041**
+
+- **dim_customer table**
+  - 27 distinct markets (e.g., India, USA, Spain)
+  - 75 distinct customers throughout the markets
+  - 2 types of platforms:
+    - Brick & Mortar - Physical/offline store
+    - E-commerce - Online Store (Amazon, Flipkart)
+  - Three channels:
+    - Retailer
+    - Direct
+    - Distributors
+
+- **dim_market table**
+  - 27 distinct markets (e.g., India, USA, Spain)
+  - 7 sub-zones
+  - 4 regions:
+    - APAC
+    - EU
+    - NA
+    - LATAM
+
+- **dim_product table**
+  - Divisions:
+    - P & A
+      - Peripherals
+      - Accessories
+    - PC
+      - Notebook
+      - Desktop
+    - N & S
+      - Networking
+      - Storage
+  - 14 different categories (e.g., Internal HDD, Keyboard)
+  - Various product variants available
+
+### Fact Tables
+
+Fact tables contain transactional data.
+
+**Database: gdb041**
+
+- **fact_forecast_monthly table**
+  - Forecasts customer needs in advance to help with:
+    - Higher customer satisfaction
+    - Reduced warehouse storage costs
+  - Denormalized by the data engineering team for analytical use
+  - All dates in the month are replaced by the start date of the month
+  - Contains all column names and the forecast quantity needed by the customer
+
+- **fact_sales_monthly table**
+  - Similar to the fact_forecast_monthly table but contains sold quantity instead of forecast value
+
+**Database: gdb056**
+
+- **freight_cost table**
+  - Contains travel cost and other costs for each market with the fiscal year
+
+- **gross_price table**
+  - Contains details of gross prices with product code
+
+- **manufacturing_cost table**
+  - Contains details of manufacturing costs with product code and year
+
+- **Pre_invoice_deductions table**
+  - Contains details of pre-invoice deductions percentage for each customer with year
+
+- **Post_invoice_deductions table**
+  - Contains details of post-invoice deductions and other deductions
+
 
 ### Data Import and Model
 
