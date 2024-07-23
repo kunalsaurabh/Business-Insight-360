@@ -1,0 +1,4 @@
+P & L Chg % = 
+var res = DIVIDE('Key Measures'[P & L Chg], ABS([P & L BM]),0)*100
+return
+IF(ISBLANK([P & L BM]) || ISBLANK([P & L values]),BLANK(),RES)
