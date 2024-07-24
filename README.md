@@ -4,7 +4,7 @@
 
 AtliQ Hardware, a rapidly growing company, has initiated a data analytics project using PowerBI to gain a competitive edge and make data-driven decisions. This project aims to provide stakeholders with insights across finance, sales, marketing, and supply chain.
 
- **Live Report:** [AtliQ Hardware Business Insights 360](https://www.novypro.com/project/)
+ **Live Report:** [AtliQ Hardware Business Insights 360]([https://www.novypro.com/project/](https://app.powerbi.com/view?r=eyJrIjoiY2JlY2UyZGYtOGNmYS00NzVjLThjOTYtM2Q1MmYyNTY3YmU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 ## Technologies Used
 
