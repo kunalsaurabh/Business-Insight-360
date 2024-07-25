@@ -155,7 +155,15 @@ Fact tables contain transactional data.
 
 ### Dashboard Design and Home View
 
-- **Home View:** Centralized view with navigation buttons to different sections (Finance, Sales, Marketing, Supply Chain, Executive View, Products, Support)
+**Home View:** Centralized view with navigation buttons to different sections
+(https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Home-page.gif)
+
+**Finance**
+**Sales**
+**Marketing**
+**Supply Chain**
+**Executive View**
+**Support**
 
 ## Conclusion
 
