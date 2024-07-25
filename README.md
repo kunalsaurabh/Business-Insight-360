@@ -185,11 +185,11 @@ Fact tables contain transactional data.
 
 ![Executive.gif](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Executive.gif)
 
-## Products
+## Support
 
 ![Support.gif](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Support.gif)
 
-Click here to find the complete BI report : [Report](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/BI%20Report/Business_Insights.pbix)
+Click here to find the complete BI report : [BI-360 Report](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/BI%20Report/Business_Insights.pbix)
 
 ## Conclusion
 
