@@ -156,14 +156,40 @@ Fact tables contain transactional data.
 ### Dashboard Design and Home View
 
 **Home View:** Centralized view with navigation buttons to different sections
-(https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Home-page.gif)
+![Home-page.gif](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Home-page.gif)
 
-**Finance**
-**Sales**
-**Marketing**
-**Supply Chain**
-**Executive View**
-**Support**
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Support
+
+## Finance View
+
+![Finance.gif](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Finance.gif)
+
+## Sales View
+
+![Sales.gif](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Sales.gif)
+
+## Marketing View
+
+![Marketing.gif](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Marketing.gif)
+
+## Supply chain View
+
+![Supply-Chain.gif](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Supply-Chain.gif)
+
+## Executive View
+
+![Executive.gif](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Executive.gif)
+
+## Products
+
+![Support.gif](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/Resource/Support.gif)
+
+Click here to find the complete BI report : [Report](https://github.com/kunalsaurabh/Business-Insight-360/blob/main/BI%20Report/Business_Insights.pbix)
 
 ## Conclusion
 
